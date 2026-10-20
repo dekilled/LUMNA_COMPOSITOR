@@ -13,6 +13,10 @@ import lock from "./orbit/lock.c?raw";
 import manage from "./orbit/manage.c?raw";
 import anim from "./orbit/anim.c?raw";
 import input from "./orbit/input.c?raw";
+import touch from "./orbit/touch.c?raw";
+import im from "./orbit/im.c?raw";
+import ipc from "./orbit/ipc.c?raw";
+import orbitMsg from "./orbit/orbit-msg.c?raw";
 import keybinds from "./orbit/keybinds.c?raw";
 
 export interface SourceFile {
@@ -36,5 +40,9 @@ export const SOURCES: SourceFile[] = [
   { name: "manage.c", body: manage },
   { name: "anim.c", body: anim },
   { name: "input.c", body: input },
+  { name: "touch.c", body: touch },
+  { name: "im.c", body: im },
+  { name: "ipc.c", body: ipc },
+  { name: "orbit-msg.c", body: orbitMsg },
   { name: "keybinds.c", body: keybinds },
 ];
