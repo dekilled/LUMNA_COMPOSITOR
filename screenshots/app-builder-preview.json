@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Orbit",
+      "hasCanvas": false,
+      "bodyTextLen": 2512,
+      "bodyTextHash": "15045a8877df0be1f31ae5ae87086d68c74f655b670a842208cb1c3bc8ce1b86",
+      "bodyTextPrefix": "Orbit Orbit Composer · LUMNA Mesa Celular Doca Fontes Arrasta a ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Orbit",
+      "hasCanvas": false,
+      "bodyTextLen": 1128,
+      "bodyTextHash": "3efc82d60da0c1e2122ed5c6ad40a90018df6fdc04071be38cd0df5586519c30",
+      "bodyTextPrefix": "Orbit Mesa Celular Doca eDP-1 1600×1000 · 1.5× · 60 Hz x 0 LUMNA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
